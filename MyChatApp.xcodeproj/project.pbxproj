@@ -42,6 +42,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D44A221A2CBEDCB200E8D847 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D44A22572CBFAEB600E8D847 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		D46161DB2CB54FC800BA83E4 = {
 			isa = PBXGroup;
 			children = (
@@ -61,6 +75,8 @@
 		D46161E62CB54FC800BA83E4 /* MyChatApp */ = {
 			isa = PBXGroup;
 			children = (
+				D44A22572CBFAEB600E8D847 /* Views */,
+				D44A221A2CBEDCB200E8D847 /* Models */,
 				D46161E72CB54FC800BA83E4 /* MyChatAppApp.swift */,
 				D46161E92CB54FC800BA83E4 /* LoginView.swift */,
 				D4A610402CB7D6410048B568 /* GoogleService-Info.plist */,
